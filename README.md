@@ -33,7 +33,7 @@ AWS
 CI/CD   
 
 #### ➿ Algorithms
-<a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Python</b></a>
+<a href="https://github.com/fudgnlek/algorithms.git"><b>Python</b></a>
 
 ### Tech Stack🌀
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white)](https://www.python.org/)
