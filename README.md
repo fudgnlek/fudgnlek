@@ -13,7 +13,7 @@ I'm currently interested in "Cloud Architecture" & "DevOps"
 🎾 Various club activities ( badminton, band )    
 
 #### ☀️  Life   
-👶🏻 Growing up to be an expert as a _Solutions Architect(SA)_ and _DevOps Engineer_  
+👶🏻 Growing up to be an expert as a _Cloud Architect_ and _DevOps Engineer_  
 👯 Good at communicating with various people and also I like it :)    
 ☁️ Love studying cloud technology
 
