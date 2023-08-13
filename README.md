@@ -27,10 +27,9 @@ Engineer Information Processing
 
 #### ✏️ Project 
 Terraform   
-<a href="https://github.com/fudgnlek/project.git"><b>Kubernetes</b></a>  
+<a href="https://github.com/fudgnlek/project.git"><b>Kubernetes (MSA-based hospital appointment system) </b></a>  
 Docker   
 AWS   
-CI/CD   
 
 #### ➿ Algorithms
 <a href="https://github.com/fudgnlek/algorithms.git"><b>Python</b></a>
@@ -51,7 +50,7 @@ CI/CD
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-plastic&logo=notion&logoColor=white)
 
-### Contact
+<!--### Contact
 📌 Instagram, LinkedIn
 
 
