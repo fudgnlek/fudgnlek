@@ -9,7 +9,7 @@ I'm currently interested in "Cloud Architecture" & "DevOps"
 #### 🎓  Education 
 👩🏻‍🎓 Soongsil University  
 👩🏻‍💻 majored in IT convergence at the Department of Electronic Information Engineering   
-📢 Student Council Activities of the Department ( 2019.03 - 2020.12 ) 
+📢 Student Council Activities of the Department ( 2019.03 - 2020.12 )     
 🎾 Various club activities ( badminton, band )    
 ☁️ cloudclub 4th member ( 2023.11 ~ )     
 
