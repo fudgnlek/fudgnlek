@@ -26,14 +26,14 @@ CKA: Certified Kubernetes Administrator  ( 2023.03.30 ) | _[Credly Badge](https:
 Linux Master Level 2   
 Engineer Information Processing  
 
-<!--#### ✏️ Project 
+#### ✏️ Project 
 Terraform   
 <a href="https://github.com/fudgnlek/project.git"><b>Kubernetes (MSA-based hospital appointment system) </b></a>  
 Docker   
 AWS   
 
 #### ➿ Algorithms
-<a href="https://github.com/fudgnlek/algorithms.git"><b>Python</b></a>-->
+<a href="https://github.com/fudgnlek/algorithms.git"><b>Python</b></a>
 
 ### Tech Stack🌀
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white)](https://www.python.org/)
